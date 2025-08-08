@@ -33,7 +33,7 @@ HealthHub is a comprehensive multi-vendor e-commerce platform specialized in sel
 ---
 
 ## 📷 Screenshot
-https://i.ibb.co.com/7xp366nY/s1.jpg
+![Homepage Screenshot](https://i.ibb.co/7xp366nY/s1.jpg)
 
 ---
 
