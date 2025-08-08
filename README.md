@@ -54,4 +54,4 @@ HealthHub is a comprehensive multi-vendor e-commerce platform specialized in sel
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/rafiq-567/your-repo.git
